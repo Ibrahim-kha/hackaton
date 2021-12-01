@@ -91,7 +91,7 @@ function  Show(props) {
 
   function  set(pa) {
     setShowphoto(pa);
-    //console.log(showphoto);
+    
   }
     var phot=props.pic;
     if(showphoto==-1){
